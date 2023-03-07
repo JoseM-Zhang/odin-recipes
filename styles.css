@@ -1,0 +1,18 @@
+.recipes-listing {
+    background-color: dimgrey;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-family: sans-serif;
+}
+
+h1,
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.ingredient-list {
+    background-color: lightgreen;
+}
