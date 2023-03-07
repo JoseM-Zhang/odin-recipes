@@ -1,6 +1,6 @@
 # odin-recipes
 
-This project will display my basic HTML skills in creating a simple recipe website.
+This project will display my basic HTML skills in creating a simple recipe website of my favorite foods.
 Once finished with this project it will show my understanding in:\
 -HTML boilerplates\
 -elements and tags\
